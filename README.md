@@ -1,20 +1,55 @@
-This project is a Power BI dashboard that visualizes and analyzes Real-Time weather data, including temperature, humidity, wind speed, and other parameters. It provides hourly and daily insights to better understand weather patterns of the Davangere city.
+#Weather Data Analysis & Dashboard
 
-Dataset
-The dataset was sourced from Visual Crossing Weather API, using metric units and hourly weather data.
-Columns include:
-Date & Time
-Temperature (°C)
-Minimum Temperature (°C)
-Maximum Temperature (°C)
-Humidity (%)
-Wind Speed (km/h)
-Precipitation (mm)
-Conditions (e.g., Sunny, Cloudy, Rainy)
+##This project is a Weather Data Analysis and Visualization Dashboard built using Power BI.
+It analyzes weather parameters like temperature, humidity, wind speed, and precipitation for Davangere, providing insights through interactive charts, KPI cards, and trends.
+The dataset was sourced via a weather API, transformed, and visualized to identify weather patterns, trends, and anomalies.
 
-Dashboard Features
-KPI Cards for key metrics (Average Temperature, Max Temp, Min Temp, Wind Speed)
-Hourly Temperature Trend (Line Chart)
-Weather Conditions Distribution (Pie/Donut Chart)
-Humidity and Precipitation Comparison
-Custom Filters to select date ranges and specific conditions
+**Dataset Information**
+
+1.**Source:** Visual Crossing Weather API
+
+2.**Location:** Davangere, India
+
+3.**Unit Group:** Metric
+
+4.**Data Included:** Hourly weather observations
+
+5.**Format:** CSV / API response
+
+6.**Key Columns:**
+
+> Date & Time (hourly)
+
+> Minimum Temperature (°C)
+
+> Maximum Temperature (°C)
+
+> Humidity (%)
+
+> Wind Speed (km/h)
+
+> Precipitation (mm)
+
+> Visibility (km)
+
+> Conditions (Clear, Cloudy, Rain, etc.)
+
+**Tools & Technologies**
+
+1.**Power BI** – Dashboard creation & data visualization
+
+2.**Power Query** – Data cleaning & transformation
+
+3.**Visual Crossing Weather API** – Data collection
+
+**Dashboard Features**
+
+1.KPI Cards for key metrics (Average Temperature, Max Temp, Min Temp, Wind Speed)
+
+2.Hourly Temperature Trend (Line Chart)
+
+3.Weather Conditions Distribution (Pie/Donut Chart)
+
+4.Humidity and Precipitation Comparison
+
+5.Custom Filters to select date ranges and specific conditions
