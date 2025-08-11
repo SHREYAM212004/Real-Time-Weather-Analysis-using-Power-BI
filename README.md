@@ -1,6 +1,6 @@
-#Weather Data Analysis & Dashboard
+# Weather Data Analysis & Dashboard
 
-##This project is a Weather Data Analysis and Visualization Dashboard built using Power BI.
+## This project is a Weather Data Analysis and Visualization Dashboard built using Power BI.
 It analyzes weather parameters like temperature, humidity, wind speed, and precipitation for Davangere, providing insights through interactive charts, KPI cards, and trends.
 The dataset was sourced via a weather API, transformed, and visualized to identify weather patterns, trends, and anomalies.
 
